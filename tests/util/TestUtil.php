@@ -1,12 +1,12 @@
 <?php
 
-namespace Plancke\Tests\util;
+namespace vPvP\Tests\util;
 
-use Plancke\HypixelPHP\cache\impl\NoCacheHandler;
-use Plancke\HypixelPHP\exceptions\HypixelPHPException;
-use Plancke\HypixelPHP\fetch\impl\DefaultFetcher;
-use Plancke\HypixelPHP\HypixelPHP;
-use Plancke\HypixelPHP\log\Logger;
+use vPvP\HypixelPHP\cache\impl\NoCacheHandler;
+use vPvP\HypixelPHP\exceptions\HypixelPHPException;
+use vPvP\HypixelPHP\fetch\impl\DefaultFetcher;
+use vPvP\HypixelPHP\HypixelPHP;
+use vPvP\HypixelPHP\log\Logger;
 
 class TestUtil {
 
